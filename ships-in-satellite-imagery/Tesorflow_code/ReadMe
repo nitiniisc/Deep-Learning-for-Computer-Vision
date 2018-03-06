@@ -1,2 +1,4 @@
-Ships in Satellite Imagery
+"Ships in Satellite Imagery"
 Classify ships in San Franciso Bay using Planet satellite imagery
+Download dataset(.json file) from https://www.kaggle.com/rhammell/ships-in-satellite-imagery/data
+Model is Implemented with 5 fold and results is average ~95%
